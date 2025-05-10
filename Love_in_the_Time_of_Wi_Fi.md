@@ -110,3 +110,135 @@ To love.
 *(They clink glasses. Lights fade to black.)*
 
 **\[END OF ACT I]**
+
+---
+
+## ACT II: The Disruption
+
+**Scene opens moments after the toast.** The lights rise to soft amber. Everyone’s settled back into their seats. Some refill glasses. The tone is pensive, the mood fragile.
+
+Suddenly—BANG. A loud knock on the loft door. Everyone startles.
+
+**Alex**
+That’s weird. I wasn’t expecting anyone else.
+
+*(He opens the door. A figure leans in the frame, backlit by hallway light. A long coat, tousled hair, smeared lipstick, sunglasses at night. A rolling suitcase behind them.)*
+
+**Enter: Sky Devaux**
+Late 30s. Genderfluid actor, scandal-stained socialite, and former lover of Alex. Beautiful in a way that seems accidental. Charisma drips like spilled gin.
+
+**Sky**
+Miss me?
+
+*(Alex stiffens.)*
+
+**Alex**
+Sky. What the hell are you—
+
+**Sky**
+—Doing here? Your little assistant-slash-intern-slash-groupie told me you were hosting another one of your late-night philosophy salons.
+*(Peels off sunglasses)*
+Figured I’d crash the party. We used to share thoughts. And beds.
+
+*(A pause. The others watch, stunned, fascinated.)*
+
+**Leo** (murmuring to Dani)
+Ah. Here comes the storm.
+
+**Alex** (composing himself)
+Fine. You want in? Take a chair. But we're in the middle of something.
+
+**Sky**
+Perfect.
+*(Glides in like they own the place.)*
+What’s the theme? Truth? Desire? Who’s sleeping with who?
+
+**Ezra**
+Love.
+
+**Sky** (laughs and drops their coat to the floor, revealing a form-hugging outfit underneath)
+Of course. You nerds and your endless foreplay with abstraction.
+*(Takes a swig from someone’s glass and sits on the edge of the table.)*
+Alright then. Here’s my take.
+
+### Sky’s Monologue
+
+Love is violence.
+Not the screaming kind. The intimate kind. The quiet invasions. The soft dismantling of who you thought you were.
+
+Love is when someone learns your codes, your weak spots, and says:
+“I could ruin you.”
+And you say:
+“Please.”
+
+You think love is a choice? It’s a fever. A virus. It burns the house down and makes you thank the flames.
+
+I was in love once. With you, Alex.
+*(Everyone turns to Alex. He goes rigid.)*
+He told me I was “an idea he couldn’t write yet.”
+And then he left. For a TEDx talk in fucking Austin.
+
+*(Silence.)*
+
+**Sky** (to the room)
+He intellectualized me. Abstracted me. Turned my chaos into content.
+
+Love isn’t theory. Love is mess. It’s screaming in public. It’s ugly crying on someone’s voicemail. It’s bleeding in your UberPool because your ex threw a wine glass.
+
+It’s not noble.
+It’s not wise.
+It’s real.
+
+**Jules** (quietly)
+Jesus.
+
+**Mal** (applauding slowly)
+I have goosebumps. You are the meteor this dinner party needed.
+
+**Leo** (raising his glass)
+To Sky. The only one tonight who made love feel like it costs something.
+
+**Sky** (bowing)
+Cheers, Professor Ghost. You always did get me.
+
+**Alex** (finally speaking)
+Sky, you weren’t a theory. You were…
+*(He falters.)*
+You were too much. I couldn’t hold it. Or maybe I didn’t want to try.
+
+**Sky**
+Exactly.
+And that, my darling, is love. Knowing someone can’t handle you, and loving them anyway.
+
+*(Lights dim slightly. A silence falls over the room as each character sits with what has just been revealed. The party has changed. The tone is different now: less witty, more haunted.)*
+
+**Dani** (softly)
+Maybe none of us actually know what love is.
+Maybe it’s just the story we tell to make heartbreak bearable.
+
+**Jules**
+Or the lie we keep upgrading to stop ourselves from deleting hope.
+
+**Ezra**
+I could build an app for that.
+
+*(Laughter—light, tired. Mal pours more wine.)*
+
+**Alex** (quietly)
+Maybe love’s not one thing. Maybe it’s all of this. The algorithm and the ache. The ghost and the performance. The hunger and the burn.
+
+**Leo**
+Maybe love is the symposium itself. The ritual. The spilling of wine and guts. The truth only drunken mouths dare speak.
+
+**Sky** (raising a final toast)
+Then drink, darlings.
+To desire.
+To destruction.
+To the only thing worth ruining your life over.
+
+**All**
+To love.
+
+*(They drink. Lights dim to black. Music fades in: slow jazz or a synth-heavy love ballad.)*
+
+**\[END OF ACT II]**
