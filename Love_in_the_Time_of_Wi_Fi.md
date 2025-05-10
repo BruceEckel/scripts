@@ -242,3 +242,108 @@ To love.
 *(They drink. Lights dim to black. Music fades in: slow jazz or a synth-heavy love ballad.)*
 
 **\[END OF ACT II]**
+
+---
+
+## ACT III: The Morning After
+
+**Setting:**
+The same Brooklyn loft.
+Dawn leaks through the tall windows—hazy blue and orange. The table is cluttered: half-eaten sushi, crumpled napkins, wine-stained glasses. Some candles still flicker.
+
+Stage is silent. One by one, characters begin to stir. No one is in a rush. There is hangover energy, but also a strange calm.
+
+**Scene opens with Dani and Jules on the couch, sharing coffee in mismatched mugs.** Sky is curled on a lounge chair, still half-asleep. Mal sits on the windowsill, legs dangling. Leo has just lit a cigarette despite everyone’s protests the night before. Alex stands alone at the kitchen island, staring out.
+
+**Dani**
+I had a dream I was drowning in a bathtub of DMs.
+
+**Jules**
+Probably the most honest metaphor for modern dating I've ever heard.
+
+**Mal**
+I dreamed I was being worshipped in a candlelit church that turned out to be a dive bar. Felt right.
+
+**Leo** (exhales smoke)
+I didn’t dream. Just remembered.
+
+*(Pause.)*
+
+**Sky** (murmuring, eyes still closed)
+You all talk too much in the morning.
+
+**Alex** (turns to face them all)
+I’ve been thinking.
+Last night was…something. We all dropped pieces of ourselves on that table. Some of it brilliant, some of it bullshit. All of it true.
+
+*(They nod, slowly. No one interrupts.)*
+
+**Alex**
+So now I want to ask a different question. Not what is love. But what do you want it to be?
+
+*(Long pause. Mal raises a hand theatrically.)*
+
+**Mal**
+I'll go first.
+I want love to be a costume I never want to take off. Something that makes me feel more me, not less.
+
+**Jules** (after a beat)
+I want love to be...quiet. No fireworks. No acid trips. Just someone who makes the world less exhausting.
+
+**Dani**
+I want love to not hurt. Or if it has to, at least make it worth the scars.
+
+**Ezra** (from behind a laptop now open, already halfway back into work mode)
+I want love to be a collaboration. Open source. Constantly updated. Bug fixes with every fight.
+
+**Leo**
+I want love to forgive me for not being young anymore.
+
+*(Everyone turns to Sky.)*
+
+**Sky** (sits up slowly)
+I want love to stop trying to fix me.
+Let me be ruinous. Let me be adored for it.
+
+*(Finally, they turn to Alex.)*
+
+**Alex** (softly)
+I want love to make me shut up long enough to listen.
+Really listen.
+Not just to what they say, but to what they fear.
+I’ve spent too much of my life trying to define love like it’s a thesis.
+But maybe...
+Love is a witness. Someone who stays through the contradictions.
+Someone who sees the edits and the raw footage—and doesn’t leave during the credits.
+
+*(Silence. Deep. Not heavy—just full.)*
+
+**Leo** (smiling sadly)
+Well.
+Look at that.
+We’ve all said something true.
+
+**Sky** (standing, stretching)
+So what now? Do we all make love to each other and start a commune?
+
+**Mal** (raising a toast with a cup of orange juice)
+To The Love Commune™. Now taking applications.
+
+*(Laughter—genuine this time. Light. The air feels lighter.)*
+
+### Final Lines
+
+**Alex** (to audience, breaking fourth wall)
+We gathered, like they did in Athens. We drank. We argued. We confessed. We ruined and redeemed ourselves, over cheese plates and Pinot Noir.
+
+No gods descended.
+No truths carved into stone.
+
+Just people,
+Trying to name the unnamable,
+And love each other despite it.
+
+*(Lights dim. Lo-fi jazz fades in. A projection on the back wall slowly types out:)*
+
+> “Love is not a definition. It’s a conversation.”
+> —End of the Symposium
