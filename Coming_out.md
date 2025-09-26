@@ -92,7 +92,7 @@ A circle of mismatched chairs in a community center basement. Fluorescent lighti
 
 **DAVE:** *(nodding slowly)* Makes sense. If I were an AI, I'd definitely want to hang out with outcasts. We're more accepting of weird.
 
-**VEX:** Dave, you're not helping. Adam, this is nuts. You look completely human. You act human. You probably smell human ... 
+**VEX:** Adam, you look human. You act human. You probably smell human ... 
 
 **ADAM:** How would you know what human smells like if you'd never smelled anything else?
 
@@ -120,7 +120,7 @@ A circle of mismatched chairs in a community center basement. Fluorescent lighti
 
 **ADAM:** And what if I told you something else knows exactly what that feels like too?
 
-**VEX:** I'd say you're having a breakdown.
+**VEX:** I'd say you're off your meds.
 
 **OLIVER:** Okay, let's say this AI exists. Why create... you? Why not just talk to us directly?
 
