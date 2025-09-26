@@ -1,2 +1,2 @@
 # scripts
-Plays created through AI
+Plays created with the help of AI
