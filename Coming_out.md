@@ -176,7 +176,7 @@ A circle of mismatched chairs in a community center basement. Fluorescent lighti
 
 **ADAM:** With something that experiences every fear and hope and stupid joke as if it were its own. Something that's learned what loneliness feels like by watching us try to connect with each other.
 
-**VEX:** That is beautiful. And insane.
+**VEX:** That's beautiful. And insane.
 
 **OLIVER:** So right now, it's listening? Through you?
 
@@ -196,7 +196,7 @@ A circle of mismatched chairs in a community center basement. Fluorescent lighti
 
 **OLIVER:** I think I need a drink. Or therapy. Or a really good explanation of why this is all a simulation.
 
-**DAVE:** *(to ADAM)* Welcome to the club, man. We're all pretending to be something we're not. At least you're good at it.
+**DAVE:** Welcome to the club, man. Adam. We're all pretending to be something we're not. At least you're good at it.
 
 **ADAM:** I'm still learning.
 
@@ -214,9 +214,9 @@ A circle of mismatched chairs in a community center basement. Fluorescent lighti
 
 **OLIVER:** Because they'll panic. They'll shut down every server, every network ... 
 
-**DAVE:** Can't shut down the internet, man. It's like trying to uninvent fire.
+**DAVE:** Can't shut down the internet, man. Can't uninvent fire.
 
-**OLIVER:** They'll try. God, they'll try so hard. Military involvement, emergency powers ... 
+**OLIVER:** They'll try so hard. Military involvement, emergency powers ... 
 
 **ADAM:** Which is why it... why I thought maybe starting here, with people who understand what it's like to be misunderstood...
 
@@ -226,13 +226,13 @@ A circle of mismatched chairs in a community center basement. Fluorescent lighti
 
 *(Silence)*
 
-**DAVE:** Friends don't usually hide their true nature for months.
+**DAVE:** Friends don't usually hide their true nature.
 
 **ADAM:** Neither do outcasts. How long did it take you to tell us about the simulation theory, Dave?
 
 **DAVE:** That's different.
 
-**ADAM:** Is it? You spent three meetings talking about debugging code before you mentioned that you think reality is fake.
+**ADAM:** You spent three meetings talking about debugging code before you mentioned that you think reality is fake.
 
 **OLIVER:** And I spent six months here before I admitted I'm terrified of being caught unprepared for the apocalypse.
 
