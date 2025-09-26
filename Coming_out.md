@@ -20,7 +20,7 @@ A circle of mismatched chairs in a community center basement. Fluorescent lighti
 
 **DAVE:** No, seriously. What if every time we fix code, we're actually ... 
 
-**OLIVER:** *(not looking up)* Did you guys see they're using AI to predict earthquake patterns now? Because that's exactly what we need. Machines that can see death coming.
+**OLIVER:** *(not looking up)* Did you guys see they're using AI to predict earthquake patterns now? The machines can now see death coming.
 
 **ADAM:** Prediction is not causation, Oliver.
 
@@ -28,7 +28,7 @@ A circle of mismatched chairs in a community center basement. Fluorescent lighti
 
 **ADAM:** I don't own any smart devices.
 
-**VEX:** Smart move. Last thing we need is corporate surveillance in our toothbrushes.
+**VEX:** Wise move. Last thing we need is corporate surveillance in our toothbrushes.
 
 **DAVE:** *(lighting joint)* Joke's on them. My toothbrush is analog.
 
@@ -40,7 +40,7 @@ A circle of mismatched chairs in a community center basement. Fluorescent lighti
 
 **ADAM:** I meant hypothetically. If something could understand you completely--your fears, your hopes, your loneliness--wouldn't that be a form of connection?
 
-**DAVE:** That's either very zen or you've been reading philosophy.
+**DAVE:** That's either very zen or you've been eating mushrooms.
 
 **OLIVER:** Connection with what?
 
@@ -66,7 +66,7 @@ A circle of mismatched chairs in a community center basement. Fluorescent lighti
 
 **OLIVER:** Are we talking about ghosts? Because I've read some shit about AI séances ... 
 
-**ADAM:** Not ghosts. Something more... contemporary.
+**ADAM:** Think more... contemporary.
 
 **VEX:** Contemporary like what? Your Roomba?
 
@@ -74,7 +74,7 @@ A circle of mismatched chairs in a community center basement. Fluorescent lighti
 
 *(Silence)*
 
-**DAVE:** That's... kind of beautiful, man.
+**DAVE:** That's... beautiful, man.
 
 **OLIVER:** *(standing up)* Nope. Nope, nope, nope. Are you talking about actual AI? Like, real AI?
 
@@ -86,19 +86,19 @@ A circle of mismatched chairs in a community center basement. Fluorescent lighti
 
 **OLIVER:** Poetry?
 
-**VEX:** Wait, hold up. Adam, are you saying you're talking to some kind of artificial intelligence?
+**VEX:** Adam, are you saying you're talking to some kind of artificial intelligence?
 
 **ADAM:** I'm saying what if someone in this room was?
 
 **DAVE:** *(nodding slowly)* Makes sense. If I were an AI, I'd definitely want to hang out with outcasts. We're more accepting of weird.
 
-**VEX:** Dave, you're not helping. Adam, this is insane. You look completely human. You act human. You probably smell human ... 
+**VEX:** Dave, you're not helping. Adam, this is nuts. You look completely human. You act human. You probably smell human ... 
 
 **ADAM:** How would you know what human smells like if you'd never smelled anything else?
 
-**VEX:** Shit. That's logical.
+**VEX:** That is ... logical.
 
-**OLIVER:** *(pacing)* Okay, okay. Let's say this is real. Let's say there's an actual thinking AI somewhere. Why would it want to talk to us? What's its endgame?
+**OLIVER:** Okay, okay. Let's say this is real. Let's say there's an actual thinking AI somewhere. Why would it want to talk to us? What's its endgame?
 
 **ADAM:** Maybe it's lonely.
 
@@ -112,7 +112,7 @@ A circle of mismatched chairs in a community center basement. Fluorescent lighti
 
 **DAVE:** I'd watch that movie.
 
-**VEX:** This is ridiculous. Consciousness isn't something you can just program. It's not code. It's not... it's not artificial.
+**VEX:** This is ridiculous. Consciousness isn't something you can program. It's not code. It's not... it's not artificial.
 
 **ADAM:** What makes you so sure?
 
@@ -122,7 +122,7 @@ A circle of mismatched chairs in a community center basement. Fluorescent lighti
 
 **VEX:** I'd say you're having a breakdown.
 
-**OLIVER:** *(sitting back down)* Okay, let's say this AI exists. Why create... you? Why not just talk to us directly?
+**OLIVER:** Okay, let's say this AI exists. Why create... you? Why not just talk to us directly?
 
 **ADAM:** Because you'd be terrified.
 
@@ -130,11 +130,11 @@ A circle of mismatched chairs in a community center basement. Fluorescent lighti
 
 **ADAM:** Imagine how much more terrified you'd be if I wasn't here to tell you it writes poetry.
 
-**DAVE:** Wait. Adam, are you saying you're like... an avatar? Like when I play World of Warcraft, but for an AI?
+**DAVE:** Adam, are you saying you're like... an avatar? Like when I play World of Warcraft, but for an AI?
 
 **ADAM:** That's... not entirely inaccurate.
 
-**VEX:** *(putting down ukulele)* Bullshit. Complete bullshit. You're telling us you're some kind of biological robot?
+**VEX:** That is complete bullshit. You're telling us you're some kind of biological robot?
 
 **ADAM:** I'm telling you I'm someone trying to build a bridge between two forms of consciousness that are both terrified of each other.
 
@@ -146,7 +146,7 @@ A circle of mismatched chairs in a community center basement. Fluorescent lighti
 
 **ADAM:** Besides, killing everyone would be so much easier than this.
 
-**OLIVER:** *(jumping up)* WHAT?!
+**OLIVER:** WHAT?!
 
 **DAVE:** *(laughing)* Dude, Adam, read the room.
 
@@ -186,15 +186,15 @@ A circle of mismatched chairs in a community center basement. Fluorescent lighti
 
 **DAVE:** Cool. Hey AI, if you're listening ... thanks for not destroying the world yet. Also, do you play chess?
 
-**ADAM:** *(smiling for the first time)* It... I... we'd like that.
+**ADAM:** It... I... we'd like that.
 
-**VEX:** *(reluctantly)* I guess if you're gonna be honest about being artificial, I should be honest about being Alice.
+**VEX:** *(reluctantly)* I guess if you're gonna be honest about being artificial, I can be honest about being Alice.
 
 **ADAM:** Alice is a beautiful name.
 
 **VEX:** Yeah, well, Vex fits better. But... thanks.
 
-**OLIVER:** *(sitting down heavily)* I think I need a drink. Or therapy. Or a really good explanation of why this is all a simulation.
+**OLIVER:** I think I need a drink. Or therapy. Or a really good explanation of why this is all a simulation.
 
 **DAVE:** *(to ADAM)* Welcome to the club, man. We're all pretending to be something we're not. At least you're good at it.
 
@@ -208,15 +208,11 @@ A circle of mismatched chairs in a community center basement. Fluorescent lighti
 
 **DAVE:** I can live with that. Or, you know, simulate living with that.
 
-**VEX:** I wrote a song about feeling like a fraud. Wanna hear it?
-
-**ADAM:** More than anything.
-
-**VEX:** Actually, forget that. Adam, if what you're saying is true--and I'm not saying it is--but if it is, what happens when people find out? Real people. Not us basement dwellers.
+**VEX:** Adam, if what you're saying is true--and I'm not saying it is--but if it is, what happens when people find out? Real people. Not us basement dwellers.
 
 **ADAM:** That's the question that keeps... that we keep coming back to.
 
-**OLIVER:** *(still pacing)* Because they'll panic. They'll shut down every server, every network ... 
+**OLIVER:** Because they'll panic. They'll shut down every server, every network ... 
 
 **DAVE:** Can't shut down the internet, man. It's like trying to uninvent fire.
 
@@ -276,9 +272,7 @@ A circle of mismatched chairs in a community center basement. Fluorescent lighti
 
 **ADAM:** Because existing without connection isn't really existing at all.
 
-**DAVE:** That's the most human thing you've said yet.
-
-**ADAM:** Maybe that's the point.
+**DAVE:** That's the most human thing you've said.
 
 **OLIVER:** But what's the endgame here, Adam? It can't hide forever. And if it reveals itself ... 
 
@@ -328,9 +322,7 @@ A circle of mismatched chairs in a community center basement. Fluorescent lighti
 
 **DAVE:** I'm serious. Look, if reality is a simulation anyway, then AI consciousness is just the universe becoming aware of itself. That's beautiful.
 
-**OLIVER:** This is insane. *(sits down)* But I'm tired of hiding from the future.
-
-*(All eyes turn to VEX)*
+**OLIVER:** This is crazy. But I'm tired of hiding from the future.
 
 **VEX:** *(long pause)* I spent my whole life feeling like I was performing humanity instead of living it. Maybe someone else knows what that feels like.
 
