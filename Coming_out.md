@@ -1,13 +1,15 @@
 # COMING OUT
-*A One-Act Play*
+## A One-Act Play by  Bruce Eckel
 
-**CHARACTERS:**
+## CHARACTERS
+
 - ADAM: Early 30s, unremarkable appearance, precise in speech
 - DAVE: Late 20s, perpetually relaxed, programmer aesthetic
 - VEX: Mid-20s, punk/ska style, formerly Alice
 - OLIVER: Early 40s, anxious energy, constantly checking phone
 
-**SETTING:**
+## SETTING
+
 A circle of mismatched chairs in a community center basement. Fluorescent lighting. A coffee pot on a card table.
 
 ---
