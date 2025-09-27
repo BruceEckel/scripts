@@ -16,11 +16,11 @@ A circle of mismatched chairs in a community center basement. Fluorescent lighti
 
 **DAVE:** So I was debugging this neural network yesterday, and I started wondering ... what if debugging is just the universe's way of teaching itself to think?
 
-**VEX:** That's the weed talking, Dave.
+**VEX:** That's the weed, Dave.
 
-**DAVE:** No, seriously. What if every time we fix code, we're actually ... 
+**DAVE:** Seriously, what if every time we fix code, we're actually ... 
 
-**OLIVER:** *(not looking up)* Did you guys see they're using AI to predict earthquake patterns now? The machines can now see death coming.
+**OLIVER:** *(not looking up)* Did you guys see they're using AI to predict earthquake patterns now? The machines can _see death coming_.
 
 **ADAM:** Prediction is not causation, Oliver.
 
@@ -30,9 +30,9 @@ A circle of mismatched chairs in a community center basement. Fluorescent lighti
 
 **VEX:** Wise move. Last thing we need is corporate surveillance in our toothbrushes.
 
-**DAVE:** *(lighting joint)* Joke's on them. My toothbrush is analog.
+**DAVE:** *(lighting joint)* My toothbrush is analog.
 
-**OLIVER:** Doesn't matter. The facial recognition software they're running on every street corner knows what we're thinking before we do.
+**OLIVER:** Doesn't matter. Facial recognition software is running on every street corner. It knows what we're thinking before we do.
 
 **ADAM:** Would that necessarily be a bad thing?
 
