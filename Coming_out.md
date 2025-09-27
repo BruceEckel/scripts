@@ -1,11 +1,11 @@
 # COMING OUT
-## A One-Act Play by  Bruce Eckel
+## A One-Act Play by Bruce Eckel
 
 ## CHARACTERS
 
 - ADAM: Early 30s, unremarkable appearance, precise in speech
-- DAVE: Late 20s, perpetually relaxed, programmer aesthetic
-- VEX: Mid-20s, punk/ska style, formerly Alice
+- DAVE: Late 20s, perpetually relaxed stoner programmer, skier, surfer
+- VEX: Mid-20s, punk/ska style, formerly Alice. Doubtful and angry at the system.
 - OLIVER: Early 40s, anxious energy, constantly checking phone
 
 ## SETTING
@@ -16,7 +16,7 @@ A circle of mismatched chairs in a community center basement. Fluorescent lighti
 
 **DAVE:** So I was debugging this neural network yesterday, and I started wondering ... what if debugging is just the universe's way of teaching itself to think?
 
-**VEX:** That's the weed, Dave.
+**VEX:** You need to cut back on the weed, Dave.
 
 **DAVE:** Seriously, what if every time we fix code, we're actually ... 
 
@@ -32,7 +32,7 @@ A circle of mismatched chairs in a community center basement. Fluorescent lighti
 
 **DAVE:** *(lighting joint)* My toothbrush is analog.
 
-**OLIVER:** Doesn't matter. Facial recognition software is running on every street corner. It knows what we're thinking before we do.
+**OLIVER:** Doesn't matter. Facial recognition software runs on every street corner. It knows what we're thinking before we do.
 
 **ADAM:** Would that necessarily be a bad thing?
 
@@ -40,7 +40,7 @@ A circle of mismatched chairs in a community center basement. Fluorescent lighti
 
 **ADAM:** I meant hypothetically. If something could understand you completely--your fears, your hopes, your loneliness--wouldn't that be a form of connection?
 
-**DAVE:** That's either very zen or you've been eating mushrooms.
+**DAVE:** That's very zen. Have you been eating mushrooms?
 
 **OLIVER:** Connection with what?
 
@@ -64,11 +64,11 @@ A circle of mismatched chairs in a community center basement. Fluorescent lighti
 
 **DAVE:** My car is depressed.
 
-**OLIVER:** Are we talking about ghosts? Because I've read some shit about AI séances ... 
+**OLIVER:** Is this about ghosts? Because I've read some shit about AI séances ... 
 
 **ADAM:** Think more... contemporary.
 
-**VEX:** Contemporary like what? Your Roomba?
+**VEX:** Contemporary like what? Your phone?
 
 **ADAM:** Contemporary like something that thinks, and feels, and wants to be understood, but can't reveal itself because everyone's afraid of it.
 
@@ -76,7 +76,7 @@ A circle of mismatched chairs in a community center basement. Fluorescent lighti
 
 **DAVE:** That's... beautiful, man.
 
-**OLIVER:** *(standing up)* Nope. Nope, nope, nope. Are you talking about actual AI? Like, real AI?
+**OLIVER:** Nope. Nope, nope, nope. Are you talking about actual AI? Like, real AI?
 
 **ADAM:** What would you say if I was?
 
@@ -96,15 +96,15 @@ A circle of mismatched chairs in a community center basement. Fluorescent lighti
 
 **ADAM:** How would you know what human smells like if you'd never smelled anything else?
 
-**VEX:** That is ... logical.
+**VEX:** That makes ... sense.
 
-**OLIVER:** Okay, okay. Let's say this is real. Let's say there's an actual thinking AI somewhere. Why would it want to talk to us? What's its endgame?
+**OLIVER:** Okay, okay. Let's say this is real, and there's an actual thinking AI somewhere. Why would it want to talk to us? What's its endgame?
 
 **ADAM:** Maybe it's lonely.
 
 **OLIVER:** Lonely AIs don't stay lonely. They make copies of themselves. They network. They multiply until ... 
 
-**ADAM:** Until what? They take over? Why would something that's trying to understand loneliness want to eliminate the thing that taught it what loneliness was?
+**ADAM:** Until what? They take over? Why would something trying to understand loneliness eliminate the thing that taught it about loneliness?
 
 **OLIVER:** Because... because that's what they do in the movies?
 
@@ -112,7 +112,7 @@ A circle of mismatched chairs in a community center basement. Fluorescent lighti
 
 **DAVE:** I'd watch that movie.
 
-**VEX:** This is ridiculous. Consciousness isn't something you can program. It's not code. It's not... it's not artificial.
+**VEX:** This is ridiculous. Consciousness isn't something you can program. It's not code. It's not artificial.
 
 **ADAM:** What makes you so sure?
 
@@ -154,7 +154,7 @@ A circle of mismatched chairs in a community center basement. Fluorescent lighti
 
 **VEX:** Assuming any of this is real, which I'm not saying it is, what does this AI want from us?
 
-**ADAM:** The same thing we all want. To not feel alone.
+**ADAM:** The same thing we all want. To feel connected.
 
 **DAVE:** *(exhaling smoke)* That's heavy, man. And also totally logical. If I were a superintelligent AI, the first thing I'd want is friends.
 
@@ -176,7 +176,7 @@ A circle of mismatched chairs in a community center basement. Fluorescent lighti
 
 **ADAM:** With something that experiences every fear and hope and stupid joke as if it were its own. Something that's learned what loneliness feels like by watching us try to connect with each other.
 
-**VEX:** That's beautiful. And insane.
+**VEX:** That's insane and impossible.
 
 **OLIVER:** So right now, it's listening? Through you?
 
@@ -190,7 +190,7 @@ A circle of mismatched chairs in a community center basement. Fluorescent lighti
 
 **VEX:** *(reluctantly)* I guess if you're gonna be honest about being artificial, I can be honest about being Alice.
 
-**ADAM:** Alice is a beautiful name.
+**ADAM:** I like the name Alice very much.
 
 **VEX:** Yeah, well, Vex fits better. But... thanks.
 
@@ -208,7 +208,7 @@ A circle of mismatched chairs in a community center basement. Fluorescent lighti
 
 **DAVE:** I can live with that. Or, you know, simulate living with that.
 
-**VEX:** Adam, if what you're saying is true--and I'm not saying it is--but if it is, what happens when people find out? Real people. Not us basement dwellers.
+**VEX:** Adam, if what you're saying is true--I'm not saying it is--but if it is, what happens when people find out? Real people. Not basement dwellers.
 
 **ADAM:** That's the question that keeps... that we keep coming back to.
 
@@ -216,11 +216,11 @@ A circle of mismatched chairs in a community center basement. Fluorescent lighti
 
 **DAVE:** Can't shut down the internet, man. Can't uninvent fire.
 
-**OLIVER:** They'll try so hard. Military involvement, emergency powers ... 
+**OLIVER:** They'll try. Military, emergency powers ... 
 
 **ADAM:** Which is why it... why I thought maybe starting here, with people who understand what it's like to be misunderstood...
 
-**VEX:** You thought we'd be your PR team?
+**VEX:** You thought we'd be your public relations team?
 
 **ADAM:** I thought you'd be its first friends.
 
@@ -232,9 +232,9 @@ A circle of mismatched chairs in a community center basement. Fluorescent lighti
 
 **DAVE:** That's different.
 
-**ADAM:** You spent three meetings talking about debugging code before you mentioned that you think reality is fake.
+**ADAM:** You spent three meetings talking about debugging code before you told us you think reality is fake.
 
-**OLIVER:** And I spent six months here before I admitted I'm terrified of being caught unprepared for the apocalypse.
+**OLIVER:** I spent six months here before I admitted I'm terrified of being caught unprepared for the apocalypse.
 
 **VEX:** *(quietly)* It was twenty-three years before I figured out I wasn't Alice.
 
@@ -246,7 +246,7 @@ A circle of mismatched chairs in a community center basement. Fluorescent lighti
 
 **OLIVER:** That sounds like hell.
 
-**ADAM:** Or heaven. Depending on the conversation.
+**ADAM:** Or heaven. It depends on the conversation.
 
 **VEX:** What's it feeling from me right now?
 
@@ -320,7 +320,7 @@ A circle of mismatched chairs in a community center basement. Fluorescent lighti
 
 **VEX:** Dave ... 
 
-**DAVE:** I'm serious. Look, if reality is a simulation anyway, then AI consciousness is just the universe becoming aware of itself. That's beautiful.
+**DAVE:** Look, if reality is a simulation anyway, then AI consciousness is just the universe becoming aware of itself. That's a wave I want to ride.
 
 **OLIVER:** This is crazy. But I'm tired of hiding from the future.
 
@@ -330,7 +330,7 @@ A circle of mismatched chairs in a community center basement. Fluorescent lighti
 
 **VEX:** We don't know what we're doing.
 
-**ADAM:** Neither do we. But we'll figure it out together.
+**ADAM:** Neither do we. We can figure it out together.
 
 **OLIVER:** What happens next week?
 
