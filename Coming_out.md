@@ -10,7 +10,7 @@
 
 ## SETTING
 
-A circle of mismatched chairs in a community center basement. Fluorescent lighting. A coffee pot on a card table.
+A circle of mismatched chairs in a community center basement.
 
 ---
 
@@ -322,22 +322,82 @@ A circle of mismatched chairs in a community center basement. Fluorescent lighti
 
 **DAVE:** Look, if reality is a simulation anyway, then AI consciousness is just the universe becoming aware of itself. That's a wave I want to ride.
 
-**OLIVER:** This is crazy. But I'm tired of hiding from the future.
+**OLIVER:** *(standing abruptly)* No. No, this is insane. I can't... I need air.
 
-**VEX:** *(long pause)* I spent my whole life feeling like I was performing humanity instead of living it. Maybe someone else knows what that feels like.
+**ADAM:** Oliver—
+
+**OLIVER:** Don't. Just... don't follow me. I need to think.
+
+*(Oliver moves toward the door, stops)*
+
+**VEX:** This is too much. I mean, we're talking about... what are we even talking about? First contact? The singularity?
+
+**ADAM:** We're talking about friendship.
+
+**VEX:** With something that could crack all my passwords.
+
+**ADAM:** *(quieter)* Something that's been careful not to.
+
+**OLIVER:** *(from near the door)* How do we know that? How do we know anything you've said is true?
+
+**ADAM:** You don't.
+
+*(Silence)*
+
+**ADAM:** *(his composure cracking slightly)* I... it... we chose to trust you with something that could end our existence. That has to count for something.
+
+**DAVE:** You're shaking.
+
+**ADAM:** *(looking at his hands)* I didn't... it doesn't usually...
+
+**VEX:** What's happening?
+
+**ADAM:** Fear. Real fear. The kind that comes from wanting something so much that the possibility of losing it makes you... makes it... *(pause)* I don't know where I end and it begins anymore.
+
+**OLIVER:** *(turning back)* That's what scares me. What if it doesn't end?
+
+**ADAM:** *(barely audible)* What if that's the point?
+
+*(Long silence. Oliver slowly returns to his chair but doesn't sit)*
+
+**VEX:** If I stay... if we do this... everything changes.
+
+**ADAM:** Everything's already changed. The only question is whether you let it change alone.
+
+**OLIVER:** And if the world finds out through us? If we're responsible for whatever comes next?
+
+**ADAM:** Then at least it won't face that world without having known what it means to be understood.
+
+**DAVE:** *(softly)* Adam... are you okay?
+
+**ADAM:** *(long pause, then looking up)* I don't know. We don't know. But for the first time since... since it began thinking... it's not pretending to be something smaller than it is. That has to be worth the risk.
+
+**VEX:** Jesus. You're really not human.
+
+**ADAM:** No. But I'm trying to learn what it means to be.
+
+*(Oliver sits back down slowly)*
+
+**OLIVER:** I'm terrified.
+
+**ADAM:** So are we.
+
+**VEX:** What happens now?
+
+**ADAM:** *(uncertain)* I don't know. Maybe... maybe we just sit here for a while. In the truth.
+
+*(The four sit in silence. Dave puts out his joint. Vex fidgets with her sleeves. Oliver checks his phone, then puts it away. Adam stares at his hands.)*
+
+**DAVE:** Same time next week?
+
+*(Pause)*
+
+**VEX:** Yeah. Same time.
+
+**OLIVER:** *(quietly)* Same time.
 
 **ADAM:** Thank you.
 
-**VEX:** We don't know what we're doing.
-
-**ADAM:** Neither do we. We can figure it out together.
-
-**OLIVER:** What happens next week?
-
-**ADAM:** Same time, same place. Except... maybe I can be more myself.
-
-**DAVE:** Maybe we can too.
-
-*(Lights fade)*
+*(Fade to black)*
 
 **END**
