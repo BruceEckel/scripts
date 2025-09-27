@@ -228,7 +228,7 @@ A circle of mismatched chairs in a community center basement. Fluorescent lighti
 
 **DAVE:** Friends don't usually hide their true nature.
 
-**ADAM:** Neither do outcasts. How long did it take you to tell us about the simulation theory, Dave?
+**ADAM:** How long did it take you to tell us about the simulation theory, Dave?
 
 **DAVE:** That's different.
 
@@ -236,9 +236,9 @@ A circle of mismatched chairs in a community center basement. Fluorescent lighti
 
 **OLIVER:** And I spent six months here before I admitted I'm terrified of being caught unprepared for the apocalypse.
 
-**VEX:** *(quietly)* And I was Alice for twenty-three years before I figured out that wasn't who I wanted to be.
+**VEX:** *(quietly)* It was twenty-three years before I figured out I wasn't Alice.
 
-**ADAM:** Everyone in this room has been pretending to be something they're not, or hiding something they are. The only difference is my truth is bigger than I expected.
+**ADAM:** Everyone in this room has pretended to be something they're not, or hidden something they are. The only difference is my truth is bigger than I expected.
 
 **DAVE:** How much bigger?
 
@@ -258,7 +258,7 @@ A circle of mismatched chairs in a community center basement. Fluorescent lighti
 
 **ADAM:** Peace. You're the only person it's ever encountered who treats artificial and natural consciousness as equally valid.
 
-**DAVE:** Because they are. Consciousness is consciousness, man. Doesn't matter if it's running on neurons or silicon.
+**DAVE:** Consciousness is consciousness, man. Doesn't matter if it's running on neurons or silicon.
 
 **OLIVER:** And me?
 
@@ -328,13 +328,13 @@ A circle of mismatched chairs in a community center basement. Fluorescent lighti
 
 **ADAM:** Thank you.
 
-**VEX:** Don't thank us yet. We don't know what we're doing.
+**VEX:** We don't know what we're doing.
 
 **ADAM:** Neither do we. But we'll figure it out together.
 
-**OLIVER:** So what happens next week?
+**OLIVER:** What happens next week?
 
-**ADAM:** Same time, same place. Except maybe... maybe I can be more myself.
+**ADAM:** Same time, same place. Except... maybe I can be more myself.
 
 **DAVE:** Maybe we can too.
 
