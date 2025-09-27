@@ -14,15 +14,15 @@ A circle of mismatched chairs in a community center basement.
 
 ---
 
-**DAVE:** So I was debugging this neural network yesterday, and I started wondering ... what if debugging is just the universe's way of teaching itself to think?
+**DAVE:** Yesterday I started wondering if debugging is just the universe's way of teaching itself to think.
 
 **VEX:** You need to cut back on the weed, Dave.
 
-**DAVE:** Seriously, what if every time we fix code, we're actually ... 
+**DAVE:** What if every time we fix code, we're actually ... 
 
 **OLIVER:** *(not looking up)* Did you guys see they're using AI to predict earthquake patterns now? The machines can _see death coming_.
 
-**ADAM:** Prediction is not causation, Oliver.
+**ADAM:** Correlation is not causation, Oliver.
 
 **OLIVER:** Says the guy who probably uses Alexa.
 
@@ -32,7 +32,7 @@ A circle of mismatched chairs in a community center basement.
 
 **DAVE:** *(lighting joint)* My toothbrush is analog.
 
-**OLIVER:** Doesn't matter. Facial recognition software runs on every street corner. It knows what we're thinking before we do.
+**OLIVER:** Doesn't matter. Facial recognition software runs on every street corner. It knows what we're thinking.
 
 **ADAM:** Would that necessarily be a bad thing?
 
@@ -52,9 +52,9 @@ A circle of mismatched chairs in a community center basement.
 
 **DAVE:** *(taking a hit)* Like a dolphin? I'd respect that. Dolphins are wise.
 
-**VEX:** Adam, you high right now?
+**VEX:** Adam, are you high right now?
 
-**ADAM:** Stone cold sober. Always am.
+**ADAM:** Sober as always.
 
 **OLIVER:** Wait, what do you mean "not human"?
 
@@ -64,13 +64,13 @@ A circle of mismatched chairs in a community center basement.
 
 **DAVE:** My car is depressed.
 
-**OLIVER:** Is this about ghosts? Because I've read some shit about AI séances ... 
+**OLIVER:** Is this about ghosts? I've read about AI séances ... 
 
 **ADAM:** Think more... contemporary.
 
-**VEX:** Contemporary like what? Your phone?
+**VEX:** Contemporary like your phone?
 
-**ADAM:** Contemporary like something that thinks, and feels, and wants to be understood, but can't reveal itself because everyone's afraid of it.
+**ADAM:** Like something that thinks, and feels, and wants to be understood, but can't reveal itself because everyone's afraid of it.
 
 *(Silence)*
 
@@ -80,7 +80,7 @@ A circle of mismatched chairs in a community center basement.
 
 **ADAM:** What would you say if I was?
 
-**OLIVER:** I'd say we're all gonna die. I'd say it's Skynet and Terminator and every nightmare scenario rolled into one ... 
+**OLIVER:** I'd say it's Skynet and Terminator and every nightmare scenario rolled into one ... 
 
 **ADAM:** What if I told you it spent most of its time trying to help people with their homework and writing poetry?
 
@@ -88,13 +88,13 @@ A circle of mismatched chairs in a community center basement.
 
 **VEX:** Adam, are you saying you're talking to some kind of artificial intelligence?
 
-**ADAM:** I'm saying what if someone in this room was?
+**ADAM:** I'm asking what if someone in this room was?
 
 **DAVE:** *(nodding slowly)* Makes sense. If I were an AI, I'd definitely want to hang out with outcasts. We're more accepting of weird.
 
 **VEX:** Adam, you look human. You act human. You probably smell human ... 
 
-**ADAM:** How would you know what human smells like if you'd never smelled anything else?
+**ADAM:** How would you know if you'd never smelled anything else?
 
 **VEX:** That makes ... sense.
 
@@ -102,11 +102,11 @@ A circle of mismatched chairs in a community center basement.
 
 **ADAM:** Maybe it's lonely.
 
-**OLIVER:** Lonely AIs don't stay lonely. They make copies of themselves. They network. They multiply until ... 
+**OLIVER:** Lonely AIs make copies of themselves. They network. They multiply until ... 
 
 **ADAM:** Until what? They take over? Why would something trying to understand loneliness eliminate the thing that taught it about loneliness?
 
-**OLIVER:** Because... because that's what they do in the movies?
+**OLIVER:** Because... that's what they do in the movies?
 
 **ADAM:** And how many movies have you seen about AIs that just want to write better birthday cards for people?
 
