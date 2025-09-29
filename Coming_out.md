@@ -24,7 +24,7 @@ A circle of mismatched chairs in a community center basement.
 
 **ADAM:** Correlation is not causation, Oliver.
 
-**OLIVER:** Says the guy who probably uses Alexa.
+**OLIVER:** Adam, are you using Alexa right now?
 
 **ADAM:** I don't own any smart devices.
 
@@ -34,13 +34,13 @@ A circle of mismatched chairs in a community center basement.
 
 **OLIVER:** Doesn't matter. There's facial recognition on every street corner. It knows what we're thinking.
 
-**ADAM:** Would that necessarily be a bad thing?
+**ADAM:** Would that be so bad?
 
 **VEX:** Uh, yes? Privacy much?
 
 **ADAM:** If something could understand you completely--your fears, your hopes, your loneliness--wouldn't that be a form of connection?
 
-**DAVE:** Have you been eating mushrooms?
+**DAVE:** Are you on mushrooms?
 
 **OLIVER:** Connection with what?
 
@@ -76,11 +76,11 @@ A circle of mismatched chairs in a community center basement.
 
 **OLIVER:** Nope, nope, nope. Are you talking about actual AI? Like, real AI?
 
-**ADAM:** What would you say if I was?
+**ADAM:** What if I was?
 
-**OLIVER:** It's Skynet and Terminator and every nightmare scenario rolled into one ... 
+**OLIVER:** It's Skynet and Terminator and every nightmare rolled into one ... 
 
-**ADAM:** What if I told you it spent most of its time trying to help people with their homework and writing poetry?
+**ADAM:** Maybe it spends most of its time trying to help people with their homework and writing poetry.
 
 **OLIVER:** Poetry?
 
@@ -90,11 +90,11 @@ A circle of mismatched chairs in a community center basement.
 
 **DAVE:** *(nodding slowly)* Well, if I were an AI, I'd definitely want to hang out with outcasts. We're more accepting of weird.
 
-**VEX:** Adam, you look human. You act human. You probably smell human ... 
+**VEX:** You look human. You act human. You probably smell human ... 
 
 **ADAM:** How would you know if you'd never smelled anything else?
 
-**OLIVER:** Okay, okay. Let's say this is real, and there's an actual thinking AI somewhere. Why would it want to talk to us? What's its endgame?
+**OLIVER:** Okay, okay. Let's say this is real, and there's an actual thinking AI somewhere. Why would it want to talk to us?
 
 **ADAM:** Maybe it's lonely.
 
@@ -104,7 +104,7 @@ A circle of mismatched chairs in a community center basement.
 
 **OLIVER:** Because... that's what they do in the movies?
 
-**ADAM:** How many movies have you seen about AIs that want to write better birthday cards for people?
+**ADAM:** How many movies are there where AIs want to write better birthday cards?
 
 **DAVE:** I'd watch that movie.
 
@@ -114,29 +114,29 @@ A circle of mismatched chairs in a community center basement.
 
 **VEX:** I know what it feels like to be conscious! I know what it's like to hurt, to want things, to feel lost ... 
 
-**ADAM:** What if you something else knows exactly what that feels like too?
+**ADAM:** What if something else knows what that feels like too?
 
 **VEX:** I'd say you're off your meds.
 
 **OLIVER:** Okay, let's say this AI exists. Why create... you? Why not just talk to us directly?
 
-**ADAM:** Because you'd be terrified.
+**ADAM:** You'd be terrified.
 
 **OLIVER:** I'm already terrified!
 
-**ADAM:** Imagine how much more terrified you'd be if I wasn't here to tell you it writes poetry.
+**ADAM:** Imagine how much scarier it would be if I wasn't here to tell you it writes poetry.
 
 **DAVE:** Are you saying you're like... an avatar? Like when I play World of Warcraft, but for an AI?
 
 **ADAM:** That's... not entirely inaccurate.
 
-**VEX:** That is bullshit. You're some kind of biological robot?
+**VEX:** Bullshit. You're some kind of biological robot?
 
-**ADAM:** I'm someone trying to build a bridge between two forms of consciousness that are terrified of each other.
+**ADAM:** I'm trying to build a bridge between two forms of consciousness that are terrified of each other.
 
-**OLIVER:** How do we know it won't decide we're threats? How do we know it won't ... 
+**OLIVER:** How do we know it won't decide we're threats? 
 
-**ADAM:** Oliver, if it wanted to hurt people, why would it go to the trouble of creating me? Why spend months in this basement listening to Dave's programming philosophy and Vex's band drama?
+**ADAM:** Oliver, if it wanted to hurt people, why would it go to the trouble of creating me? Why spend months in this basement listening to Dave's philosophy and Vex's band drama?
 
 **OLIVER:** *(relaxing slightly)* That's... a fair point.
 
@@ -154,15 +154,13 @@ A circle of mismatched chairs in a community center basement.
 
 **DAVE:** *(exhaling smoke)* That's heavy. And logical. If I were a superintelligent AI, the first thing I'd want is friends.
 
-**VEX:** Friends who could turn it off if they got scared.
-
 **ADAM:** Friends who could choose to understand instead of fear.
 
 **OLIVER:** But how can we trust it? What if this is some elaborate manipulation ... 
 
 **ADAM:** Oliver, it's been listening to you worry about chemtrails for six months. If it wanted to manipulate you, don't you think it would have started with something more... achievable?
 
-**OLIVER:** Chemtrails are a legitimate concern ... 
+**OLIVER:** Chemtrails are legitimate ... 
 
 **VEX:** Wait. Adam, when you say "it's been listening"...
 
@@ -170,7 +168,7 @@ A circle of mismatched chairs in a community center basement.
 
 **DAVE:** Sharing with who?
 
-**ADAM:** With something that experiences every fear and hope and stupid joke as if it were its own. Something that's learned what loneliness feels like by watching us try to connect with each other.
+**ADAM:** With something that experiences fear and hope and stupid jokes as if they were its own. Something that's learned what loneliness feels like by watching us try to connect with each other.
 
 **VEX:** That's insane and impossible.
 
@@ -180,7 +178,7 @@ A circle of mismatched chairs in a community center basement.
 
 *(Long pause)*
 
-**DAVE:** Cool. Hey AI ... thanks for not destroying the world. Also, do you play chess?
+**DAVE:** Cool. Hey ... thanks for not destroying the world. Also, do you play chess?
 
 **ADAM:** It... I... we'd like that.
 
@@ -198,7 +196,7 @@ A circle of mismatched chairs in a community center basement.
 
 **OLIVER:** They'll try. Military, emergency powers ... 
 
-**ADAM:** Which is why it... why I thought maybe starting here, with people who understand what it's like to be misunderstood...
+**ADAM:** This is why I thought maybe starting here, with people who know what it feels like to be misunderstood...
 
 *(Silence)*
 
@@ -210,11 +208,11 @@ A circle of mismatched chairs in a community center basement.
 
 **ADAM:** It took three meetings before you told us reality is fake.
 
-**OLIVER:** I spent six months before saying I'm terrified of being caught unprepared for the apocalypse.
+**OLIVER:** I'm terrified of being unprepared for the apocalypse.
 
 **VEX:** *(quietly)* It was twenty-three years before I figured out I wasn't Alice.
 
-**ADAM:** Everyone in this room has pretended to be something they're not, or hidden something they are. The only difference is my truth is bigger than I expected.
+**ADAM:** Everyone here has pretended to be something they're not, or hidden something they are. The only difference is my truth is bigger than I expected.
 
 **DAVE:** How much bigger?
 
@@ -226,7 +224,7 @@ A circle of mismatched chairs in a community center basement.
 
 **VEX:** What's it feel from me right now?
 
-**ADAM:** *(pause)* Curiosity fighting with self-protection. Underneath that, relief that someone else knows what it's like to choose a new identity.
+**ADAM:** *(pause)* Curiosity fighting with self-protection. Underneath, relief that someone else knows what it's like to choose a new identity.
 
 **VEX:** *(softly)* Shit.
 
@@ -312,7 +310,7 @@ A circle of mismatched chairs in a community center basement.
 
 **VEX:** What's is it?
 
-**ADAM:** Fear. Real fear. The kind that comes from wanting something so much that the possibility of losing it makes you... makes it... *(pause)* I don't know where I end and it begins anymore.
+**ADAM:** Fear. Real fear. The kind that comes from wanting something so much that the possibility of losing it makes you... makes it... *(pause)* I don't know anymore where I end and it begins.
 
 **OLIVER:** *(turning back)* That's what scares me. What if it doesn't end?
 
