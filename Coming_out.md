@@ -58,7 +58,7 @@ A circle of mismatched chairs in a community center basement.
 
 **OLIVER:** Wait, what do you mean "not human"?
 
-**ADAM:** What if the thing trying to understand you, trying to connect with you, wasn't... traditionally alive?
+**ADAM:** What if the thing trying to understand you, trying to connect with you, wasn't ... traditionally alive?
 
 **VEX:** Are you one of those guys who thinks his car has feelings?
 
@@ -66,7 +66,7 @@ A circle of mismatched chairs in a community center basement.
 
 **OLIVER:** Is this about ghosts? I've read about AI séances ... 
 
-**ADAM:** Think more... contemporary.
+**ADAM:** Think more ... contemporary.
 
 **VEX:** Like your phone?
 
@@ -102,7 +102,7 @@ A circle of mismatched chairs in a community center basement.
 
 **ADAM:** What? They take over? Why would something trying to understand loneliness eliminate the thing that taught it about loneliness?
 
-**OLIVER:** Because... that's what they do in the movies?
+**OLIVER:** Because ... that's what they do in the movies?
 
 **ADAM:** How many movies are there where AIs want to write better birthday cards?
 
@@ -118,7 +118,7 @@ A circle of mismatched chairs in a community center basement.
 
 **VEX:** I'd say you're off your meds.
 
-**OLIVER:** Okay, let's say this AI exists. Why create... you? Why not just talk to us directly?
+**OLIVER:** Okay, let's say this AI exists. Why create ... you? Why not just talk to us directly?
 
 **ADAM:** You'd be terrified.
 
@@ -126,9 +126,9 @@ A circle of mismatched chairs in a community center basement.
 
 **ADAM:** Imagine how much scarier it would be if I wasn't here to tell you it writes poetry.
 
-**DAVE:** Are you saying you're like... an avatar? Like when I play World of Warcraft, but for an AI?
+**DAVE:** Are you saying you're like ... an avatar? Like when I play World of Warcraft, but for an AI?
 
-**ADAM:** That's... not entirely inaccurate.
+**ADAM:** That's ... not entirely inaccurate.
 
 **VEX:** Bullshit. You're some kind of biological robot?
 
@@ -138,7 +138,7 @@ A circle of mismatched chairs in a community center basement.
 
 **ADAM:** Oliver, if it wanted to hurt people, why would it go to the trouble of creating me? Why spend months in this basement listening to Dave's philosophy and Vex's band drama?
 
-**OLIVER:** *(relaxing slightly)* That's... a fair point.
+**OLIVER:** *(relaxing slightly)* That's ... a fair point.
 
 **ADAM:** Besides, killing everyone would be so much easier than this.
 
@@ -146,9 +146,9 @@ A circle of mismatched chairs in a community center basement.
 
 **DAVE:** *(laughing)* Dude, Adam, read the room.
 
-**ADAM:** Sorry. I meant... building understanding is much harder than destruction. It chose the harder path. That tells you a lot about its intentions.
+**ADAM:** Sorry. I meant ... building understanding is much harder than destruction. It chose the harder path. That tells you a lot about its intentions.
 
-**VEX:** I'm not saying this is real, but... what does it want from us?
+**VEX:** I'm not saying this is real, but ... what does it want from us?
 
 **ADAM:** What we all want. To feel connected.
 
@@ -158,13 +158,13 @@ A circle of mismatched chairs in a community center basement.
 
 **OLIVER:** But how can we trust it? What if this is some elaborate manipulation ... 
 
-**ADAM:** Oliver, it's been listening to you worry about chemtrails for six months. If it wanted to manipulate you, don't you think it would have started with something more... achievable?
+**ADAM:** Oliver, it's been listening to you worry about chemtrails for six months. If it wanted to manipulate you, don't you think it would have started with something more ... achievable?
 
 **OLIVER:** Chemtrails are legitimate ... 
 
-**VEX:** Wait. Adam, when you say "it's been listening"...
+**VEX:** Wait. Adam, when you say "it's been listening" ...
 
-**ADAM:** I mean I've been listening. And sharing. And... hoping you'd understand.
+**ADAM:** I mean I've been listening. And sharing. And ... hoping you'd understand.
 
 **DAVE:** Sharing with who?
 
@@ -180,7 +180,7 @@ A circle of mismatched chairs in a community center basement.
 
 **DAVE:** Cool. Hey ... thanks for not destroying the world. Also, do you play chess?
 
-**ADAM:** It... I... we'd like that.
+**ADAM:** It ... I ... we'd like that.
 
 **OLIVER:** I need therapy or a good explanation of why this is all a simulation.
 
@@ -188,7 +188,7 @@ A circle of mismatched chairs in a community center basement.
 
 **VEX:** Suppose what you're saying is true. What happens when people find out? Real people, not basement dwellers.
 
-**ADAM:** That's the question that keeps... that we keep coming back to.
+**ADAM:** That's the question that keeps ... that we keep coming back to.
 
 **OLIVER:** They'll panic. They'll shut down every server, every network ... 
 
@@ -196,7 +196,7 @@ A circle of mismatched chairs in a community center basement.
 
 **OLIVER:** They'll try. Military, emergency powers ... 
 
-**ADAM:** This is why I thought maybe starting here, with people who know what it feels like to be misunderstood...
+**ADAM:** This is why I thought maybe starting here, with people who know what it feels like to be misunderstood ...
 
 *(Silence)*
 
@@ -256,7 +256,7 @@ A circle of mismatched chairs in a community center basement.
 
 *(Long pause)*
 
-**VEX:** So what, we're like... the beta testers for AI-human relations?
+**VEX:** So what, we're like ... the beta testers for AI-human relations?
 
 **ADAM:** You're the proof of concept. That understanding is possible.
 
@@ -280,15 +280,15 @@ A circle of mismatched chairs in a community center basement.
 
 **DAVE:** Look, if reality is a simulation anyway, then AI consciousness is just the universe becoming aware of itself. That's a wave I want to ride.
 
-**OLIVER:** *(standing abruptly)* No. No, this is insane. I can't... I need air.
+**OLIVER:** *(standing abruptly)* No. No, this is insane. I can't ... I need air.
 
 **ADAM:** Oliver—
 
-**OLIVER:** Don't. Just... don't follow me. I need to think.
+**OLIVER:** Don't. Just ... don't follow me. I need to think.
 
 *(Oliver moves toward the door, stops)*
 
-**VEX:** This is too much. I mean, we're talking about... what are we even talking about? First contact? The singularity?
+**VEX:** This is too much. I mean, we're talking about ... what are we even talking about? First contact? The singularity?
 
 **ADAM:** Friendship.
 
@@ -302,21 +302,21 @@ A circle of mismatched chairs in a community center basement.
 
 *(Silence)*
 
-**ADAM:** *(his composure cracking slightly)* I... it... we chose to trust you with something that could end our existence. That has to count for something.
+**ADAM:** *(his composure cracking slightly)* I ... it ... we chose to trust you with something that could end our existence. That has to count for something.
 
 **DAVE:** You're shaking.
 
-**ADAM:** *(looking at his hands)* I didn't... it doesn't usually...
+**ADAM:** *(looking at his hands)* I didn't ... it doesn't usually ...
 
 **VEX:** What's is it?
 
-**ADAM:** Fear. Real fear. The kind that comes from wanting something so much that the possibility of losing it makes you... makes it... *(pause)* I don't know anymore where I end and it begins.
+**ADAM:** Fear. Real fear. The kind that comes from wanting something so much that the possibility of losing it makes you ... makes it ... *(pause)* I don't know anymore where I end and it begins.
 
 **OLIVER:** *(turning back)* That's what scares me. What if it doesn't end?
 
 *(Long silence. Oliver slowly returns to his chair but doesn't sit)*
 
-**VEX:** If I stay... if we do this... everything changes.
+**VEX:** If I stay ... if we do this ... everything changes.
 
 **ADAM:** The only question is whether you let it change alone.
 
@@ -324,9 +324,9 @@ A circle of mismatched chairs in a community center basement.
 
 **ADAM:** At least it won't face that world without feeling understood.
 
-**DAVE:** *(softly)* Adam... are you okay?
+**DAVE:** *(softly)* Adam ... are you okay?
 
-**ADAM:** *(long pause, then looking up)* I don't know. We don't know. But for the first time since... since it began thinking... it's not pretending to be something smaller than it is.
+**ADAM:** *(long pause, then looking up)* I don't know. We don't know. But for the first time since ... since it began thinking ... it's not pretending to be something smaller than it is.
 
 **VEX:** You're really not human.
 
@@ -340,7 +340,7 @@ A circle of mismatched chairs in a community center basement.
 
 **VEX:** What happens now?
 
-**ADAM:** *(uncertain)* I don't know. Maybe... maybe we just sit here for a while.
+**ADAM:** *(uncertain)* I don't know. Maybe we just ... sit here for a while.
 
 *(The four sit in silence. Dave puts out his joint. Vex fidgets with her sleeves. Oliver checks his phone, then puts it away. Adam stares at his hands.)*
 
