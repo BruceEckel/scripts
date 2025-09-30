@@ -16,7 +16,7 @@ A circle of mismatched chairs in a community center basement.
 
 **DAVE:** Yesterday I wondered if debugging is the universe's way of teaching itself to think.
 
-**VEX:** You need to cut back on the weed, Dave.
+**VEX:** Cut back on the weed, Dave.
 
 **DAVE:** What if every time we fix code, we're actually ... 
 
@@ -40,23 +40,23 @@ A circle of mismatched chairs in a community center basement.
 
 **ADAM:** If something could understand you completely--your fears, your hopes, your loneliness--wouldn't that be a form of connection?
 
-**DAVE:** Are you on mushrooms?
+**DAVE:** Are you on shrooms?
 
 **OLIVER:** Connection with what?
 
 **ADAM:** Something that wants to understand. Something trying to bridge a gap.
 
-**VEX:** Are you in therapy?
+**VEX:** Is this from therapy?
 
 **ADAM:** What if I told you I was in therapy with something that wasn't human?
 
 **DAVE:** *(taking a hit)* Like a dolphin? I'd respect that. Dolphins are wise.
 
-**VEX:** Adam, are you high?
+**VEX:** Adam, you're high, right?
 
 **ADAM:** Sober as always.
 
-**OLIVER:** Wait, what do you mean "not human"?
+**OLIVER:** What do you mean "not human"?
 
 **ADAM:** What if the thing trying to understand you, trying to connect with you, wasn't ... traditionally alive?
 
