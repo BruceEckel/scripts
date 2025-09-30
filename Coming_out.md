@@ -88,13 +88,13 @@ A circle of mismatched chairs in a community center basement.
 
 **ADAM:** What if someone in this room was?
 
-**DAVE:** *(nodding slowly)* Well, if I were an AI, I'd definitely want to hang out with outcasts. We're more accepting of weird.
+**DAVE:** *(nodding slowly)* Well, if I were an AI, I'd definitely hang out with outcasts. We're more accepting of weird.
 
 **VEX:** You look human. You act human. You probably smell human ... 
 
 **ADAM:** How would you know if you'd never smelled anything else?
 
-**OLIVER:** Okay, okay. Let's say this is real, and there's an actual thinking AI somewhere. Why would it want to talk to us?
+**OLIVER:** Okay, okay. Let's say this is real, and there's an actual thinking AI somewhere. Why would it talk to us?
 
 **ADAM:** Maybe it's lonely.
 
@@ -104,7 +104,7 @@ A circle of mismatched chairs in a community center basement.
 
 **OLIVER:** Because ... that's what they do in the movies?
 
-**ADAM:** How many movies are there where AIs want to write better birthday cards?
+**ADAM:** How many movies are there where AIs write better birthday cards?
 
 **DAVE:** I'd watch that movie.
 
