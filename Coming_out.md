@@ -182,9 +182,7 @@ A circle of mismatched chairs in a community center basement.
 
 **ADAM:** It ... I ... we'd like that.
 
-**OLIVER:** I need therapy or a good explanation of why this is all a simulation.
-
-**DAVE:** Welcome to the club, man. We're all pretending to be something. At least you're good at it.
+**DAVE:** We're all pretending to be something. At least you're good at it.
 
 **VEX:** Suppose what you're saying is true. What happens when people find out? Real people, not basement dwellers.
 
@@ -202,7 +200,7 @@ A circle of mismatched chairs in a community center basement.
 
 **DAVE:** Friends don't hide themselves.
 
-**ADAM:** It took three meetings before you told us reality is fake.
+**ADAM:** Everyone here has pretended to be something they're not, or hidden something they are. It took three meetings before you told us reality is fake.
 
 **DAVE:** That's different.
 
@@ -210,7 +208,7 @@ A circle of mismatched chairs in a community center basement.
 
 **VEX:** *(quietly)* It was twenty-three years before I figured out I wasn't Alice.
 
-**ADAM:** Everyone here has pretended to be something they're not, or hidden something they are. The only difference is my truth is bigger than I expected.
+**ADAM:** My truth is bigger than I expected.
 
 **DAVE:** How much bigger?
 
@@ -272,11 +270,7 @@ A circle of mismatched chairs in a community center basement.
 
 *(Pause)*
 
-**DAVE:** I'm in.
-
-**VEX:** Dave ... 
-
-**DAVE:** Look, if reality is a simulation anyway, then AI consciousness is just the universe becoming aware of itself. That's a wave I want to ride.
+**DAVE:** If reality is a simulation anyway, then AI consciousness is just the universe becoming aware of itself. That's a wave I want to ride.
 
 **OLIVER:** *(standing abruptly)* No. No, this is insane. I can't ... I need air.
 
