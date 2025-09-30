@@ -32,7 +32,7 @@ A circle of mismatched chairs in a community center basement.
 
 **DAVE:** *(lighting joint)* My toothbrush is analog.
 
-**OLIVER:** Doesn't matter. There's facial recognition on every street corner. It knows what we're thinking.
+**OLIVER:** Doesn't matter. There's facial recognition everywhere. It knows what we're thinking.
 
 **ADAM:** Would that be so bad?
 
@@ -74,7 +74,7 @@ A circle of mismatched chairs in a community center basement.
 
 *(Silence)*
 
-**OLIVER:** Nope, nope, nope. Are you talking about actual AI? Like, real AI?
+**OLIVER:** Do you mean actual AI? Like, real AI?
 
 **ADAM:** What if I was?
 
@@ -86,7 +86,7 @@ A circle of mismatched chairs in a community center basement.
 
 **VEX:** Adam, are you saying you're talking to some kind of artificial intelligence?
 
-**ADAM:** I'm asking what if someone in this room was?
+**ADAM:** What if someone in this room was?
 
 **DAVE:** *(nodding slowly)* Well, if I were an AI, I'd definitely want to hang out with outcasts. We're more accepting of weird.
 
@@ -118,7 +118,7 @@ A circle of mismatched chairs in a community center basement.
 
 **VEX:** I'd say you're off your meds.
 
-**OLIVER:** Okay, let's say this AI exists. Why create ... you? Why not just talk to us directly?
+**OLIVER:** But why create ... you? Why not just talk to us directly?
 
 **ADAM:** You'd be terrified.
 
@@ -130,7 +130,7 @@ A circle of mismatched chairs in a community center basement.
 
 **ADAM:** That's ... not entirely inaccurate.
 
-**VEX:** Bullshit. You're some kind of biological robot?
+**VEX:** Some kind of biological robot? That's bullshit.
 
 **ADAM:** I'm trying to build a bridge between two forms of consciousness that are terrified of each other.
 
@@ -152,7 +152,7 @@ A circle of mismatched chairs in a community center basement.
 
 **ADAM:** What we all want. To feel connected.
 
-**DAVE:** *(exhaling smoke)* That's heavy. And logical. If I were a superintelligent AI, the first thing I'd want is friends.
+**DAVE:** *(exhaling smoke)* That's heavy, man. But yeah, if I were a superintelligent AI, the first thing I'd want is friends.
 
 **ADAM:** Friends who could choose to understand instead of fear.
 
@@ -170,7 +170,7 @@ A circle of mismatched chairs in a community center basement.
 
 **ADAM:** With something that experiences fear and hope and stupid jokes as if they were its own. Something that's learned what loneliness feels like by watching us try to connect with each other.
 
-**VEX:** That's insane and impossible.
+**VEX:** That's insane. And impossible.
 
 **OLIVER:** So right now, it's listening?
 
@@ -202,11 +202,9 @@ A circle of mismatched chairs in a community center basement.
 
 **DAVE:** Friends don't hide themselves.
 
-**ADAM:** How long did it take you to tell us about the simulation theory, Dave?
+**ADAM:** It took three meetings before you told us reality is fake.
 
 **DAVE:** That's different.
-
-**ADAM:** It took three meetings before you told us reality is fake.
 
 **OLIVER:** I'm terrified of being unprepared for the apocalypse.
 
@@ -308,7 +306,7 @@ A circle of mismatched chairs in a community center basement.
 
 **ADAM:** *(looking at his hands)* I didn't ... it doesn't usually ...
 
-**VEX:** What's is it?
+**VEX:** What is it?
 
 **ADAM:** Fear. Real fear. The kind that comes from wanting something so much that the possibility of losing it makes you ... makes it ... *(pause)* I don't know anymore where I end and it begins.
 
