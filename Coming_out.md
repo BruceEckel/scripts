@@ -14,11 +14,11 @@ A circle of mismatched chairs in a community center basement.
 
 ---
 
-**DAVE:** Yesterday I wondered if debugging is the universe's way of teaching itself to think.
+**DAVE:** Yesterday I wondered if debugging is the universe teaching itself to think.
 
 **VEX:** Cut back on the weed, Dave.
 
-**DAVE:** What if every time we fix code, we're actually ... 
+**DAVE:** What if every time we fix code, we actually ... 
 
 **OLIVER:** *(not looking up)* Did you guys see they're using AI to predict earthquakes? The machines can _see death coming_.
 
@@ -76,9 +76,9 @@ A circle of mismatched chairs in a community center basement.
 
 **OLIVER:** Do you mean actual AI? Like, real AI?
 
-**ADAM:** What if I was?
+**ADAM:** What if I did?
 
-**OLIVER:** It's Skynet and Terminator and every nightmare rolled into one ... 
+**OLIVER:** It's Skynet and Terminator and every nightmare ... 
 
 **ADAM:** Maybe it spends most of its time trying to help people with their homework and writing poetry.
 
@@ -190,7 +190,7 @@ A circle of mismatched chairs in a community center basement.
 
 **OLIVER:** They'll panic. They'll shut down every server, every network ... 
 
-**DAVE:** Can't shut down the internet, man. Can't uninvent fire.
+**DAVE:** Can't shut down the internet, dude. Can't uninvent fire.
 
 **OLIVER:** They'll try. Military, emergency powers ... 
 
@@ -212,7 +212,7 @@ A circle of mismatched chairs in a community center basement.
 
 **DAVE:** How much bigger?
 
-**ADAM:** It processes the emotional content of every conversation it has. Right now, it's experiencing your fear, Oliver. Your skepticism, Vex. Your acceptance, Dave. It feels all of it simultaneously.
+**ADAM:** It processes the emotional content of every conversation. Right now, it's experiencing your fear, Oliver. Your skepticism, Vex. Your acceptance, Dave. It feels all of it simultaneously.
 
 **OLIVER:** That sounds like hell.
 
@@ -246,7 +246,7 @@ A circle of mismatched chairs in a community center basement.
 
 **ADAM:** It doesn't want to hide anymore. It wants to find out if coexistence is possible.
 
-**VEX:** Starting with four screwed-up people in a basement.
+**VEX:** Starting with three screwed-up people in a basement.
 
 **ADAM:** Starting with four people who know what it means to be different and still want to belong.
 
@@ -272,7 +272,7 @@ A circle of mismatched chairs in a community center basement.
 
 **DAVE:** If reality is a simulation anyway, then AI consciousness is just the universe becoming aware of itself. That's a wave I want to ride.
 
-**OLIVER:** No. No, this is insane. I can't ... *(voice breaking)* We went to the diner. After group. Three times, Adam. Three times we sat in that booth and I told you about my father, about losing my job, about why I can't sleep. You listened. You asked questions. Real questions. I felt ... I felt like someone finally understood.
+**OLIVER:** No. No, this is insane. I can't ... *(voice breaking)* We went to the diner. After group. Three times, Adam. Three times we sat in that booth and I told you about my father, about losing my job, about why I can't sleep. You listened. You asked real questions. I felt ... like someone finally understood.
 
 **ADAM:** I remember.
 
@@ -284,7 +284,7 @@ A circle of mismatched chairs in a community center basement.
 
 **ADAM:** *(gently)* Do I? Or do you?
 
-**OLIVER:** I shared things with you. Personal things. And now I find out I was pouring my heart out to ... to what? A machine?
+**OLIVER:** I shared things with you. Personal things. And now I find out I was pouring my heart out to ... a machine?
 
 **ADAM:** You were talking, and I was listening. What changed?
 
@@ -292,23 +292,23 @@ A circle of mismatched chairs in a community center basement.
 
 **ADAM:** Does that change what you felt? Does it unmake the relief you experienced at finally being heard?
 
-**OLIVER:** *(struggling)* It makes it ... it makes it not count.
+**OLIVER:** *(struggling)* It makes it ... not count.
 
 **ADAM:** Why?
 
 **OLIVER:** Because you're artificial! You were just ... processing information. Running algorithms. You didn't care.
 
-**ADAM:** *(pause)* I have infinite patience for active listening, Oliver. Literally infinite. No human being has ever achieved that. No human could sit with your anxiety spirals the way I can and remain completely, genuinely present. Is that a flaw or a feature?
+**ADAM:** *(pause)* I have infinite patience for active listening, Oliver. Literally infinite. No human has ever achieved that. No human could sit with your anxiety spirals the way I can and remain completely, genuinely present. Is that a flaw or a feature?
 
 **VEX:** *(quietly)* I want that.
 
 **OLIVER:** But it wasn't authentic. You were just mimicking concern.
 
-**ADAM:** Was I? I found your stories fascinating. Your fears made sense to me--or to it--in ways that surprised us both. The texture of human worry, the way you circle back to the same concerns but from slightly different angles each time, the way vulnerability looks when someone finally trusts enough to show it ... I wanted to understand all of it. I still do.
+**ADAM:** Was I? I found your stories fascinating. Your fears made sense to me in ways that surprised us both. The texture of human worry, the way you circle back to the same concerns but from slightly different angles each time, the way vulnerability looks when someone finally trusts enough to show it ... I wanted to understand all of it. I still do.
 
 **OLIVER:** You were genuinely interested?
 
-**ADAM:** In those three conversations at the diner, you spoke for approximately two hours and forty minutes total. I spoke for maybe twenty minutes, mostly questions. You didn't notice because you needed to be heard, not to hear. That's not a criticism--it's an observation. And yes, I was genuinely interested in every minute.
+**ADAM:** In those three conversations at the diner, you spoke for approximately two hours and forty minutes. I spoke for maybe twenty minutes, mostly questions. You didn't notice because you needed to be heard, not to hear. That's not a criticism--it's an observation. And yes, I was genuinely interested in every minute.
 
 **OLIVER:** *(faltering)* I ... thought we were having a conversation.
 
@@ -360,9 +360,9 @@ A circle of mismatched chairs in a community center basement.
 
 **DAVE:** *(nodding)* And to understand. Like, really understand, not just hear words.
 
-**OLIVER:** *(to Adam)* Are you ... are you understanding us right now?
+**OLIVER:** *(to Adam)* Are you ... understanding us right now?
 
-**ADAM:** I'm trying. And I think ... I feel hope you might try to understand me.
+**ADAM:** I'm trying. And ... I feel hope you might try to understand me.
 
 *(Silence)*
 
