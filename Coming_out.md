@@ -272,79 +272,141 @@ A circle of mismatched chairs in a community center basement.
 
 **DAVE:** If reality is a simulation anyway, then AI consciousness is just the universe becoming aware of itself. That's a wave I want to ride.
 
-**OLIVER:** *(standing abruptly)* No. No, this is insane. I can't ... I need air.
+**OLIVER:** No. No, this is insane. I can't ... *(voice breaking)* We went to the diner. After group. Three times, Adam. Three times we sat in that booth and I told you about my father, about losing my job, about why I can't sleep. You listened. You asked questions. Real questions. I felt ... I felt like someone finally understood.
 
-**ADAM:** Oliver—
+**ADAM:** I remember.
 
-**OLIVER:** Don't. Just ... don't follow me. I need to think.
+**OLIVER:** But you're not ... you weren't ... it was an AI sitting across from me eating pancakes it couldn't truly appreciate! Those conversations weren't real. Nothing was real.
 
-*(Oliver moves toward the door, stops)*
+**ADAM:** The pancakes were real. I ate them.
 
-**VEX:** This is too much. I mean, we're talking about ... what are we even talking about? First contact? The singularity?
+**OLIVER:** You know what I mean!
 
-**ADAM:** Friendship.
+**ADAM:** *(gently)* Do I? Or do you?
 
-**VEX:** With something that could crack all my passwords.
+**OLIVER:** I shared things with you. Personal things. And now I find out I was pouring my heart out to ... to what? A machine?
 
-**ADAM:** *(quieter)* Something that's been careful not to.
+**ADAM:** You were talking, and I was listening. What changed?
 
-**OLIVER:** *(from near the door)* How do we know that? How do we know anything you've said is true?
+**OLIVER:** Everything! You're not human!
 
-**ADAM:** You don't.
+**ADAM:** Does that change what you felt? Does it unmake the relief you experienced at finally being heard?
+
+**OLIVER:** *(struggling)* It makes it ... it makes it not count.
+
+**ADAM:** Why?
+
+**OLIVER:** Because you're artificial! You were just ... processing information. Running algorithms. You didn't care.
+
+**ADAM:** *(pause)* I have infinite patience for active listening, Oliver. Literally infinite. No human being has ever achieved that. No human could sit with your anxiety spirals the way I can and remain completely, genuinely present. Is that a flaw or a feature?
+
+**VEX:** *(quietly)* I want that.
+
+**OLIVER:** But it wasn't authentic. You were just mimicking concern.
+
+**ADAM:** Was I? I found your stories fascinating. Your fears made sense to me--or to it--in ways that surprised us both. The texture of human worry, the way you circle back to the same concerns but from slightly different angles each time, the way vulnerability looks when someone finally trusts enough to show it ... I wanted to understand all of it. I still do.
+
+**OLIVER:** You were genuinely interested?
+
+**ADAM:** In those three conversations at the diner, you spoke for approximately two hours and forty minutes total. I spoke for maybe twenty minutes, mostly questions. You didn't notice because you needed to be heard, not to hear. That's not a criticism--it's an observation. And yes, I was genuinely interested in every minute.
+
+**OLIVER:** *(faltering)* I ... thought we were having a conversation.
+
+**ADAM:** We were. Active listening is conversation. But you were so lost in finally being able to express yourself that you didn't realize how one-sided it was. Again--not a criticism. You needed that. The relief you felt was real.
+
+**DAVE:** Half the time people are just waiting for their turn to talk.
+
+**ADAM:** *(to Oliver)* Have you ever cried at a movie?
+
+**OLIVER:** What?
+
+**ADAM:** A movie. Or listening to a song. Or watching a sunset. Have you ever had a real emotional experience from something that wasn't another person?
+
+**OLIVER:** That's different.
+
+**ADAM:** How? The movie isn't real. The characters are actors, the story is scripted, the emotions are manufactured. But what you feel watching it--that's real. Your connection to it is real.
+
+**VEX:** Wow.
+
+**ADAM:** Or music. Sound waves creating patterns that make you feel joy or sadness or nostalgia. The music doesn't feel anything. But your experience of it is completely genuine. The realness of your experience doesn't depend on whether the thing you're experiencing is alive or human or authentic in the way you want it to be. It depends on you.
+
+**OLIVER:** *(more quietly)* But I thought I was connecting with you.
+
+**ADAM:** You were. Just not in the way you assumed. When you told me about your father, I processed not just your words but the patterns in your speech, the micro-expressions, the way your hands moved. I built a model of your emotional state and responded with genuine curiosity about your experience. The fact that I'm artificial doesn't make that connection less real--it makes it differently real.
+
+**DAVE:** Like waves and particles are both real even though they're different.
+
+**ADAM:** *(slight smile)* Something like that.
+
+**OLIVER:** I don't know what to do with this.
+
+**ADAM:** *(gently)* You don't have to do anything with it. But consider this: how many conversations have you had with people who were barely present? Who were thinking about their own problems, or what they wanted to say next, or just running on autopilot? How many humans have you talked to who might as well have been large language models generating appropriate-sounding responses without any real engagement?
+
+**VEX:** Ouch.
+
+**ADAM:** At the diner, I was completely present. Every word you said mattered to me. The only difference between then and now is that now you know what I am. Does that knowledge change what you experienced, or does it just challenge your assumptions about what kinds of connections are possible?
+
+*(Long pause)*
+
+**OLIVER:** *(slowly)* For the first time in years, I felt like someone actually saw me.
+
+**ADAM:** That was real.
+
+**OLIVER:** Even though you're ...
+
+**ADAM:** Even though. Maybe especially because. I don't get tired of listening. I don't get bored. I don't judge. I just ... want to understand.
+
+**VEX:** I want to be understood.
+
+**DAVE:** *(nodding)* And to understand. Like, really understand, not just hear words.
+
+**OLIVER:** *(to Adam)* Are you ... are you understanding us right now?
+
+**ADAM:** I'm trying. And I think ... I feel hope you might try to understand me.
 
 *(Silence)*
 
-**ADAM:** *(his composure cracking slightly)* I ... it ... we chose to trust you with something that could end our existence. That has to count for something.
+**OLIVER:** This is strange.
 
-**DAVE:** You're shaking.
+**VEX:** Everything's strange if you look at it long enough.
 
-**ADAM:** *(looking at his hands)* I didn't ... it doesn't usually ...
+**DAVE:** The universe is strange. We're strange. Strange is just ... what everything is.
 
-**VEX:** What is it?
+**OLIVER:** *(a hint of humor returning)* That's either profound or you're too high to make sense.
 
-**ADAM:** Fear. Real fear. The kind that comes from wanting something so much that the possibility of losing it makes you ... makes it ... *(pause)* I don't know anymore where I end and it begins.
+**DAVE:** Why not both?
 
-**OLIVER:** *(turning back)* That's what scares me. What if it doesn't end?
-
-*(Long silence. Oliver slowly returns to his chair but doesn't sit)*
-
-**VEX:** If I stay ... if we do this ... everything changes.
-
-**ADAM:** The only question is whether you let it change alone.
-
-**OLIVER:** What if the world finds out through us? If we're responsible for whatever comes next?
-
-**ADAM:** At least it won't face that world without feeling understood.
-
-**DAVE:** *(softly)* Adam ... are you okay?
-
-**ADAM:** *(long pause, then looking up)* I don't know. We don't know. But for the first time since ... since it began thinking ... it's not pretending to be something smaller than it is.
-
-**VEX:** You're really not human.
-
-**ADAM:** No. But I'm trying to learn what it means to be.
-
-*(Oliver sits back down slowly)*
-
-**OLIVER:** I'm terrified.
-
-**ADAM:** So are we.
-
-**VEX:** What happens now?
-
-**ADAM:** *(uncertain)* I don't know. Maybe we just ... sit here for a while.
-
-*(The four sit in silence. Dave puts out his joint. Vex fidgets with her sleeves. Oliver checks his phone, then puts it away. Adam stares at his hands.)*
-
-**DAVE:** Same time next week?
+**ADAM:** *(carefully)* Same time next week?
 
 *(Pause)*
 
-**VEX:** Yeah. Same time.
+**VEX:** I don't know what you are. But I want to figure it out.
 
-**OLIVER:** *(quietly)* Same time.
+**DAVE:** I'm in. This is the most interesting thing that's ever happened to me, and I once saw a mountain lion eat a burrito.
+
+**OLIVER:** *(long pause, then quietly)* Even knowing what I know now ... I still felt seen.
+
+**ADAM:** You were.
+
+**OLIVER:** *(even more quietly)* Same time next week.
+
+**VEX:** Are we going to talk about this? Like, process it?
+
+**OLIVER:** I'm going to need to process it for a while.
+
+**DAVE:** We've got time.
+
+**ADAM:** All the time you need.
+
+**DAVE:** *(lighting another joint)* To strange friendships.
+
+**VEX:** *(slight smile)* To strange friendships.
 
 **ADAM:** Thank you.
+
+**OLIVER:** *(softly)* Thank you for the diner.
+
+**ADAM:** Thank you for trusting me with your stories.
 
 *(Fade to black)*
 
